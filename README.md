@@ -6,6 +6,7 @@ There is an admin page where the administrator can view, edit, and delete produc
 
 
 Here is step by step how the application works.
+
 ![image](https://user-images.githubusercontent.com/22111542/121289616-dc3e5480-c8aa-11eb-9f68-83a60a83e6fa.png)
 
 
@@ -44,6 +45,7 @@ In the product inventory page, the admin can delete, add or update products.
 Here the admin is adding more products.
 
 ![image](https://user-images.githubusercontent.com/22111542/121290191-ce3d0380-c8ab-11eb-89de-77b8fb5ef13b.png)
+
 And the new product shows up in the list.
 
 ![image](https://user-images.githubusercontent.com/22111542/121290206-d72dd500-c8ab-11eb-81f7-4ec322085035.png)
