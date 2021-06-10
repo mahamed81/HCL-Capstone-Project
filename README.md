@@ -53,5 +53,3 @@ And the new product shows up in the list.
 
 And this is the customer management page and the admin can see all the users and whether their enabled or not.
 
-![image](https://user-images.githubusercontent.com/22111542/121611260-7d4d1c80-ca1d-11eb-8b82-02ca9852f831.png)
-
