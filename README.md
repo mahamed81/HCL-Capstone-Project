@@ -1,7 +1,8 @@
-Online Music Store Project:
+Music Instrument Project:
 
-In this project, there is an online product catalog that can be browsed: The work starts with adding new products catalog features which includes displaying categories, products, and product details.
+This is a Music Instrument project where users can select music instruments which shows the details of the product including, price, and the condition. For each item, the user can view product, product detail, the price, as well as the condition of the product.
 Also, once the customer chooses a product, they can add to the shopping cart and check out and pay for the product.
+
 There is an admin page where the administrator can view, edit, and delete products. The admin can see all the users as well as add products to the product inventory.
 
 
